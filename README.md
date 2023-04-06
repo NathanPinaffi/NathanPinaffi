@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NathanPinaffi
-- Computer Networks Student - IFSULDEMINAS
+- Computer Science at Universidade Paulista (UNIP)
 - FullStack Javascript Developer Junior (React & Node.JS)
 
   ![Snake animation](https://github.com/nathanpinaffi/nathanpinaffi/blob/output/github-contribution-grid-snake.svg)
